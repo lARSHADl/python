@@ -1,4 +1,5 @@
 def grid():
+    """ Displays the Grid"""
     print("---------")
     print("|", cells[0], cells[1], cells[2], "|")
     print("|", cells[3], cells[4], cells[5], "|")
